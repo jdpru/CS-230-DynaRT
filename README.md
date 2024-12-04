@@ -5,9 +5,9 @@
 DynaRT is a deep learning framework developed to model and predict reaction times (RT) in cognitive tasks, leveraging task-switching paradigms. The project explores the relationship between cognitive stability and flexibility by using neural networks, including feedforward, LSTM, and dynamic variational autoencoder architectures. 
 
 ## Final Project Files have "DynaRT-" as a prefix:
-DynaRT-RNN_LSTM.ipynb
-DynaRT-DVAE&Linear.ipynb
-DynaRT-Baseline_NN_Model
+* DynaRT-RNN_LSTM.ipynb
+* DynaRT-DVAE&Linear.ipynb
+* DynaRT-Baseline_NN_Model.ipynb
 
 ## Dependencies
 
